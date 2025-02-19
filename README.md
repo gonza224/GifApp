@@ -9,7 +9,7 @@
   <p align="center">
     Simple Vite app using giphy API.
     <br />
-    <a href="[https://gonza224/GifApp/](https://gonza224.github.io/GifApp/)">View Demo</a>
+    <a href="https://gonza224.github.io/GifApp/">View Demo</a>
   </p>
 </div>
 
